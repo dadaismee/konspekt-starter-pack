@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "27fd787a738876ff",
+        "id": "60d46fb2d8838a57",
         "type": "tabs",
         "children": [
           {
-            "id": "3655693fa8690306",
+            "id": "67fb99fb1ce0741e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 hub & concept/Социальные нормы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Социальные нормы"
+            }
+          },
+          {
+            "id": "51244485b25c478e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +35,8 @@
               "title": "Spravka"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -33,7 +48,7 @@
       {
         "id": "954c2dd808aba724",
         "type": "tabs",
-        "dimension": 54.807692307692314,
+        "dimension": 45.52023121387283,
         "children": [
           {
             "id": "6dd430ea036d075d",
@@ -69,7 +84,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -79,9 +94,38 @@
         "currentTab": 2
       },
       {
-        "id": "cb971de0c4a44360",
+        "id": "7ca093f4d5f7a5cf",
         "type": "tabs",
-        "dimension": 45.19230769230769,
+        "dimension": 54.47976878612717,
+        "children": [
+          {
+            "id": "da05a9422cfb2f3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spravka.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Spravka"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "11cc5fb635335710",
+    "type": "split",
+    "children": [
+      {
+        "id": "03975cbb741c1fb5",
+        "type": "tabs",
         "children": [
           {
             "id": "c1d03e4a467f45ff",
@@ -91,7 +135,7 @@
               "state": {
                 "file": "Spravka.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -102,7 +146,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -112,7 +156,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7612466304098046,
+                  "scale": 1.0599315262018976,
                   "close": true
                 }
               },
@@ -121,69 +165,7 @@
             }
           },
           {
-            "id": "75721c3222b60940",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "04 manuscripts/04.1 drafts/Скелет моей новой статьи.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для Скелет моей новой статьи"
-            }
-          },
-          {
-            "id": "27c932d96feb4c29",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "04 manuscripts/04.1 drafts/Скелет моей новой статьи.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Скелет моей новой статьи"
-            }
-          },
-          {
-            "id": "da05a9422cfb2f3a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "04 manuscripts/04.1 drafts/Скелет моей новой статьи.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Структура Скелет моей новой статьи"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 389.5
-  },
-  "right": {
-    "id": "11cc5fb635335710",
-    "type": "split",
-    "children": [
-      {
-        "id": "aad2140f60c572de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "edcf2da1d1df8436",
+            "id": "c8160320b6b04241",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -198,11 +180,49 @@
             }
           }
         ]
+      },
+      {
+        "id": "41e24edb71357308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75721c3222b60940",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spravka.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Spravka"
+            }
+          },
+          {
+            "id": "27c932d96feb4c29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spravka.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Spravka"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 374.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,47 +232,49 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "markdown-importer:Импорт Markdown-файлов": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "987454d135709c1d",
+  "active": "75721c3222b60940",
   "lastOpenFiles": [
-    "07 literature",
-    "06 manuscripts/EXAMPLE—Final draft.md",
     "01 inbox/ПРИМЕР—gross2022.md",
-    "04 hub+concept notes",
     "01 inbox/ПРИМЕР—ahrens2022.md",
-    "01 inbox/10.01 processed highlights",
-    "obsidian-pandoc-reference-list_data_win.json",
-    "obsidian-pandoc_data_win.json",
-    "obsidian.json",
-    "obsidian_win.json",
-    "zotero.pref.js",
-    "zotero.pref_win.js",
-    "zotero.sqlite",
-    "05 drafts (structure notes)/New paper draft.md",
-    "konspekt_pack/Spravka.md",
-    "konspekt_pack/05 service/Scripts/MacOS_scripts/5_get-citation-style-path.command",
-    "konspekt_pack/05 service/Templates/text-skeleton-template.md",
-    "konspekt_pack/05 service/Templates/permanent-note-template.md",
-    "konspekt_pack/05 service/Templates/map-of-content-template.md",
-    "konspekt_pack/05 service/Templates/manuscript-template.md",
-    "konspekt_pack/04 manuscripts/04.1 drafts/New paper draft.md",
-    "konspekt_pack/04 manuscripts/EXAMPLE—Final draft.md",
-    "konspekt_pack/03 permanent notes (index)/ПРИМЕР—Инструментальной рациональности может быть недостаточно для следования нормам?.md",
-    "konspekt_pack/03 permanent notes (index)/ПРИМЕР—Powerful people are less inclined to follow social norms.md",
-    "konspekt_pack/01 inbox/ПРИМЕР—gross2022.md",
-    "konspekt_pack/01 inbox/ПРИМЕР—ahrens2022.md",
+    "02 literature notes/@mann2022.md",
     "Spravka.md",
-    "03 permanent notes (index)/ПРИМЕР—Инструментальной рациональности может быть недостаточно для следования нормам?.md",
-    "03 permanent notes (index)/ПРИМЕР—Powerful people are less inclined to follow social norms.md",
-    "!Notes/Permanent notes/My ideas/ПРИМЕР—Инструментальной рациональности может быть недостаточно для следования нормам?.md",
-    "!Notes/Permanent notes/ПРИМЕР—Powerful people are less inclined to follow social norms.md",
-    "!Notes/Manuscripts/ПРИМЕР—Чистовик новой статьи.md",
-    "!Notes/Inbox (Fleeting notes)/ПРИМЕР—gross2022.md",
-    "!Notes/Inbox (Fleeting notes)/ПРИМЕР—ahrens2022.md",
-    "!Notes/Permanent notes/Без названия.md",
-    "05 service/50.02 templates/text-skeleton-template.md",
+    "00 project logs/Пример лога.md",
+    "01 inbox/@gross2022.md",
+    "04 hub & concept/Социальные нормы.md",
+    "01 inbox/sdflkj.md",
+    "01 inbox/mann2022.md",
+    "07 service/templates/hub-note-template.md",
+    "01 inbox/Без названия.md",
+    "00 project logs",
+    "07 service/templates/permanent-note-template.md",
+    "07 service/templates/manuscript-template.md",
+    "04 hub & concept/Социальные нормы1.md",
+    "07 service/templates/structure-note-template.md",
+    "08 service/templates/literature-note-template.md",
+    "03 permanent/ПРИМЕР—Powerful people are less inclined to follow social norms.md",
+    "04 hub & concept/HUB_Социальные нормы.md",
+    "01 inbox/Социальные нормы.md",
+    "03 permanent/ПРИМЕР—Инструментальной рациональности может быть недостаточно для следования нормам?.md",
+    "05 drafts/New paper draft.md",
+    "01 inbox/boobs.md",
+    "01 inbox/Tits.md",
+    "01 inbox/poops.md",
+    "01 inbox/Без названия 1.md",
+    "06 manuscripts/EXAMPLE—Final draft.md",
+    "06 manuscripts/06.01 output/ПРИМЕР—Чистовик новой статьи.pdf",
+    "08 service/my_library.json.sb-f467b8af-vhfbbP",
+    "08 service/scripts/header.js",
+    "03 permanent notes (index)",
+    "08 service/templates/text-gen_prompts",
+    "01 inbox/01.1 fleeting notes",
+    "08 service/scripts/search-research-notes.js",
+    "Chats",
+    "08 service/scripts/process-fleeting-notes.js",
     "Zettelkasten/Canvas example.canvas"
   ]
 }

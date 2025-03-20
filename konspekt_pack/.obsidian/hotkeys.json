@@ -49,15 +49,6 @@
       "key": "6"
     }
   ],
-  "obsidian-zotero-desktop-connector:zdc-import-notes": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Z"
-    }
-  ],
   "obsidian-citation-plugin:insert-citation": [
     {
       "modifiers": [
@@ -174,6 +165,91 @@
         "Alt"
       ],
       "key": "S"
+    }
+  ],
+  "templater-obsidian:08 service/templates/extract note from selection.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "quickadd:choice:241319f9-721f-4503-a896-6cebacdd4795": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "quickadd:choice:05e37477-8a2f-487f-9d16-a835a1822e53": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "quickadd:choice:88de6046-03e4-4838-8682-b9a551232366": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:delete-paragraph": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "quickadd:choice:c8d45a8c-c751-45f6-a965-daad5202675a": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-focus-mode:toggle-focus-mode": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-focus-mode:toggle-super-focus-mode": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "F"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowLeft"
     }
   ]
 }

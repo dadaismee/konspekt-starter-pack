@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "07 service/templates",
   "templates_pairs": [
     [
       "",
@@ -11,29 +11,17 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "",
+  "user_scripts_folder": "07 service/scripts",
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "!Notes/Permanent notes",
-      "template": "Templates/permanent-note-template.md"
-    },
-    {
-      "folder": "!Notes/Manuscripts",
-      "template": "Templates/manuscript-template.md"
-    },
-    {
-      "folder": "!Notes/Manuscripts/Text skeletons (papers)",
-      "template": "Templates/text-skeleton-template.md"
+      "folder": "01 inbox",
+      "template": "07 service/templates/permanent-note-template.md"
     }
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    ""
-  ],
-  "startup_templates": [
-    ""
-  ],
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
   "enable_ribbon_icon": true
 }

@@ -1,7 +1,7 @@
 {
   "ruleConfigs": {
     "add-blank-line-after-yaml": {
-      "enabled": true
+      "enabled": false
     },
     "dedupe-yaml-array-values": {
       "enabled": false,
@@ -91,10 +91,10 @@
     },
     "header-increment": {
       "enabled": true,
-      "start-at-h2": true
+      "start-at-h2": false
     },
     "headings-start-line": {
-      "enabled": false
+      "enabled": true
     },
     "remove-trailing-punctuation-in-heading": {
       "enabled": true,
@@ -176,7 +176,7 @@
       "inner-new-lines": false
     },
     "consecutive-blank-lines": {
-      "enabled": false
+      "enabled": true
     },
     "convert-spaces-to-tabs": {
       "enabled": true,
@@ -195,9 +195,9 @@
       "enabled": true
     },
     "heading-blank-lines": {
-      "enabled": false,
-      "bottom": true,
-      "empty-line-after-yaml": true
+      "enabled": true,
+      "bottom": false,
+      "empty-line-after-yaml": false
     },
     "line-break-at-document-end": {
       "enabled": false
@@ -235,7 +235,7 @@
       "english-symbols-punctuation-after": "-+'\"([¥$"
     },
     "trailing-spaces": {
-      "enabled": false,
+      "enabled": true,
       "twp-space-line-break": false
     },
     "add-blockquote-indentation-on-paste": {

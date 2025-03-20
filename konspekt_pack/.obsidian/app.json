@@ -1,14 +1,14 @@
 {
   "newFileLocation": "folder",
-  "attachmentFolderPath": "/Files",
+  "attachmentFolderPath": "08 service/files",
   "promptDelete": false,
   "showInlineTitle": false,
   "showLineNumber": false,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "alwaysUpdateLinks": true,
-  "newFileFolderPath": "!Notes/Inbox (Fleeting notes)",
+  "newFileFolderPath": "01 inbox",
   "defaultViewMode": "source",
   "livePreview": true,
   "showUnsupportedFiles": true,
-  "vimMode": false
+  "vimMode": true
 }

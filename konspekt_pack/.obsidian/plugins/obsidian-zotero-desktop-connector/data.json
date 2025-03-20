@@ -1,26 +1,22 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "!Notes/Fleeting notes/",
+  "noteImportFolder": "01 inbox",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "png",
   "pdfExportImageQuality": 90,
-  "citeFormats": [
-    {
-      "name": "Cite",
-      "format": "pandoc",
-      "brackets": true
-    }
-  ],
+  "citeFormats": [],
   "exportFormats": [
     {
-      "name": "Make fleeting note",
-      "outputPathTemplate": "01 inbox/annotations_{{citekey}}.md",
-      "imageOutputPathTemplate": "05 service/Files/{{citekey}}/",
-      "imageBaseNameTemplate": "image"
+      "name": "Add fleeting note",
+      "outputPathTemplate": "01 inbox/@{{citekey}}.md",
+      "imageOutputPathTemplate": "07 service/files/{{citekey}}_files/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "07 service/templates/zotero.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
   "openNoteAfterImport": true,
   "whichNotesToOpenAfterImport": "last-imported-note",
-  "shouldConcat": true
+  "shouldConcat": true,
+  "pdfExportImageOCR": false
 }
