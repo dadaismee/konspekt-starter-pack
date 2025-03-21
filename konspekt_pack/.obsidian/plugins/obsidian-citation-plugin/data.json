@@ -5,5 +5,5 @@
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\npages: {{page}}\ncitekey: {{citekey}}\ndate-added: {{date:DD-MM-YYYY}} {{time:HH:mm}}\n---\n# {{title}}\n- Темы:\n- Fleeting Note: [[{{citekey}}]]\n- [Ссылка в Зотеро]({{zoteroSelectURI}})\n\n## Резюме источника\n\n## Ключевые идеи автора\n1. \n\n## Мои идеи по тексту\n1. \n\n## Связанные заметки",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "/Users/valerii/Obsidian/Service/zotero-library.json"
+  "citationExportPath": "07 service/my_library.json"
 }
