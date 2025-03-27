@@ -8,6 +8,6 @@
   "enableCiteKeyCompletion": true,
   "pullFromZotero": true,
   "showCitekeyTooltips": true,
-  "pathToBibliography": "/Users/test/Documents/konspekt_pack/07%20service/my_library.json",
-  "cslStylePath": "07 service/apa.csl"
+  "pathToBibliography": "/Users/test/Documents/konspekt_pack/07 service/my_library.json",
+  "cslStylePath": "/Users/test/Documents/konspekt_pack/07 service/apa.csl"
 }
