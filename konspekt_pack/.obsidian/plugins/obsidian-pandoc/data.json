@@ -10,6 +10,6 @@
   "pandoc": "/usr/local/bin/pandoc",
   "pdflatex": "/usr/local/bin/tectonic",
   "outputFolder": "",
-  "extraArguments": "--bibliography=/Users/test/Documents/konspekt_pack/07%20service/my_library.json\n--csl=/Users/test/Documents/konspekt_pack/07%20service/apa.csl\n--citeproc\n--pdf-engine=tectonic\n--standalone\n\n-V mainfont=\"Times\"",
+  "extraArguments": "--bibliography=/Users/test/konspekt_pack/07%20service/my_library.json\n--csl=/Users/test/konspekt_pack/07%20service/apa.csl\n--citeproc\n--pdf-engine=tectonic\n--standalone\n\n-V mainfont=\"Times\"",
   "exportFrom": "md"
 }
