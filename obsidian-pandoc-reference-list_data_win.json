@@ -7,5 +7,7 @@
   "renderLinkCitations": true,
   "enableCiteKeyCompletion": true,
   "pullFromZotero": true,
-  "showCitekeyTooltips": true
+  "showCitekeyTooltips": true,
+  "pathToBibliography": "C:\\Users\\testuser\\konspekt_pack\\07 service\\my_library.json",
+  "cslStylePath": "C:\\Users\\testuser\\konspekt_pack\\07 service\\apa.csl"
 }

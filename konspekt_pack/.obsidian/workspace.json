@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 guides/workbook.md",
+                "file": "04 hub & concept/Social norms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "workbook"
+              "title": "Social norms"
             }
           }
         ]
@@ -88,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 guides/workbook.md",
+                "file": "04 hub & concept/Social norms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура workbook"
+              "title": "Структура Social norms"
             }
           }
         ]
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "08 guides/workbook.md",
+                "file": "04 hub & concept/Social norms.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +145,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф workbook"
+              "title": "Граф Social norms"
             }
           }
         ]
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 guides/workbook.md",
+                "file": "04 hub & concept/Social norms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для workbook"
+              "title": "Обратные ссылки для Social norms"
             }
           },
           {
@@ -179,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 guides/workbook.md",
+                "file": "04 hub & concept/Social norms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из workbook"
+              "title": "Исходящие ссылки из Social norms"
             }
           },
           {
@@ -224,37 +224,37 @@
   },
   "active": "c75068ede86448bd",
   "lastOpenFiles": [
-    "Spravka.md",
-    "03 permanent/example—Instrumental rationality is insufficient.md",
-    "08 guides/08.5 productivity (bonus)/02 time management for researchers.md",
-    "08 guides/08.5 productivity (bonus)/01 no-bullshit speed-reading.md",
-    "08 guides/workbook.md",
-    "00 project logs/project log example.md",
-    "08 guides/08.1 obsidian/01 obsidian interface.md",
-    "08 guides/08.3 pandoc/03 setting citation style.md",
-    "08 guides/08.4 notes workflow/05 draft guide.md",
-    "08 guides/08.4 notes workflow/01 zotero import guide.md",
     "01 inbox/example—gross2022.md",
-    "08 guides/08.2 zotero/05 highlights guide.md",
-    "08 guides/08.2 zotero/02 zotero checklist.md",
+    "02 literature notes/@mann2022.md",
+    "06 manuscripts/EXAMPLE—Final draft.md",
+    "07 service/templates/zotero.md",
+    "07 service/templates/structure-note-template.md",
+    "07 service/templates/permanent-note-template.md",
+    "07 service/templates/hub-note-template.md",
+    "07 service/templates/manuscript-template.md",
     "08 guides/08.2 zotero/03 adding sources.md",
-    "01 inbox/@jackson2016.md",
-    "08 guides/08.2 zotero/04 searching sources.md",
+    "08 guides/08.2 zotero/02 zotero checklist.md",
     "08 guides/08.2 zotero/01 zotero interface.md",
+    "08 guides/08.1 obsidian/02 templates.md",
+    "08 guides/08.1 obsidian/01 obsidian interface.md",
+    "05 drafts/example paper draft.md",
+    "05 drafts/draft.md",
+    "04 hub & concept/Social norms.md",
+    "03 permanent/example—Powerful people are less inclined to follow social norms.md",
+    "03 permanent/example—Instrumental rationality is insufficient.md",
+    "00 project logs/project log example.md",
+    "01 inbox/@jackson2016.md",
+    "01 inbox/example—ahrens2022.md",
+    "05 drafts/poops.md",
+    "01 inbox/ПРИМЕР—Инструментальной рациональности может быть недостаточно для следования нормам?.md",
+    "Spravka.md",
+    "08 guides/workbook.md",
+    "03 permanent/ПРИМЕР—Powerful people are less inclined to follow social norms.md",
     "07 service/files/example_metadata-good.png",
     "07 service/files/example_metadata-bad.png",
-    "08 guides/08.3 pandoc/01 what is pandoc.md",
-    "08 guides/08.3 pandoc/02 conversion guide.md",
     "07 service/files/list-funnel.jpg",
     "08 guides/08.5 productivity (bonus)",
-    "08 guides/08.2 zotero/06 export to obsidian.md",
-    "05 drafts/poop.md",
-    "08 guides/08.1 obsidian/02 templates.md",
-    "08 guides/08.4 notes workflow/04 hub-note guide.md",
-    "08 guides/08.4 notes workflow/03 main note guide.md",
-    "08 guides/08.4 notes workflow/02 literature note guide.md",
     "08 guides/08.4 notes workflow",
-    "01 inbox/зщщз.md",
     "Без названия",
     "08 guides/08.3 pandoc",
     "08 guides/08.2 zotero",

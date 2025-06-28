@@ -52,7 +52,7 @@
 	- [ ] [[@mann2022|Литературная заметка]]
 	- [ ] [[example—Powerful people are less inclined to follow social norms|Перманентная заметка]]
 	- [ ] [[Social norms|Заметка-хаб]]
-	- [ ] [[New paper draft|Черновик (структурная заметка)]]
+	- [ ] [[example paper draft|Черновик (структурная заметка)]]
 	- Готовые файлы
 		- [ ] [[ПРИМЕР—Чистовик новой статьи.pdf]]
 		- [ ] [[ПРИМЕР—Чистовик новой статьи.docx]]
