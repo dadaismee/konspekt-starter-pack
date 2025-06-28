@@ -1,0 +1,5 @@
+{
+  "askBeforeMerging": true,
+  "template": "07 service/templates/permanent-note-template",
+  "replacementText": "embed"
+}

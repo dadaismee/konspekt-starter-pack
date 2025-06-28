@@ -8,19 +8,19 @@ annotations_count: {{annotations.length}}
 ---
 # {{title}}
 - Темы:
-- Fleeting note: [[{{citekey}}_fleeting]]
 - [Зотеро]({{desktopURI}}) {%for attachment in attachments | filterby("path", "endswith", ".pdf") %} [pdf](file://{{attachment.path | replace(" ", "%20")}}) [url]({{url}})
 {%endfor %}
 ## Резюме источника
-[Параграф текста про источник для литобзора]
+→ *Параграф текста про источник для литобзора* ←
 ## Ключевые идеи автора 
 {% for annotation in annotations %}
 {% if annotation.annotatedText %}
-- [ ] [[основная идея отсюда ↓]]
+- [ ] *Суть идеи своими словами*
 	{% if annotation.comment %}
-	- **{{annotation.comment}}**
-	{% endif %}
-	> {{annotation.annotatedText}}
+- **{{annotation.comment}}**
+	{% endif %} 
+
+> {{annotation.annotatedText}}
 ---
 {% endif %}
 {% endfor %}

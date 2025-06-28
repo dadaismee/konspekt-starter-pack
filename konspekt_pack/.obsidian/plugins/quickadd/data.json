@@ -12,12 +12,14 @@
       },
       "folder": {
         "enabled": true,
-        "folders": [],
+        "folders": [
+          "03 permanent"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
-      "appendLink": false,
+      "appendLink": true,
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
@@ -190,10 +192,10 @@
       "id": "0d858313-4af7-4296-a1e1-2395edb7e408",
       "commands": [
         {
-          "name": "Zotero Integration: Add fleeting note",
+          "name": "Zotero Integration: Add literature note",
           "type": "Obsidian",
-          "id": "b643038f-acc6-4fd0-b795-68d69ae47365",
-          "commandId": "obsidian-zotero-desktop-connector:zdc-exp-Add fleeting note"
+          "id": "53dbd47e-34b6-4b9f-b806-46b1433f2994",
+          "commandId": "obsidian-zotero-desktop-connector:zdc-exp-Add literature note"
         },
         {
           "name": "Wait",

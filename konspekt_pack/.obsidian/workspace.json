@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "e59161da017afde2",
+    "id": "e4c180a6a3851e49",
     "type": "split",
     "children": [
       {
-        "id": "60d46fb2d8838a57",
+        "id": "ba963b0282503f18",
         "type": "tabs",
         "children": [
           {
-            "id": "51244485b25c478e",
+            "id": "c75068ede86448bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spravka.md",
-                "mode": "preview",
+                "file": "08 guides/workbook.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spravka"
+              "title": "workbook"
             }
           }
         ]
@@ -27,21 +27,34 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d39af3b733998f7c",
+    "id": "fedb81309ba8a218",
     "type": "split",
     "children": [
       {
-        "id": "954c2dd808aba724",
+        "id": "a882b868ff0f0b27",
         "type": "tabs",
-        "dimension": 45.52023121387283,
+        "dimension": 53.245192307692314,
         "children": [
           {
-            "id": "6dd430ea036d075d",
+            "id": "c0c85b975ae04636",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "96674c2d9441af6d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#hypothesis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +66,7 @@
             }
           },
           {
-            "id": "993e2e6d850b21c7",
+            "id": "1368f38336aa8b7e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -61,64 +74,50 @@
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
-          },
-          {
-            "id": "987454d135709c1d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": true
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "7ca093f4d5f7a5cf",
+        "id": "78d4f6081355b5af",
         "type": "tabs",
-        "dimension": 54.47976878612717,
+        "dimension": 46.75480769230769,
         "children": [
           {
-            "id": "da05a9422cfb2f3a",
+            "id": "3512ed3fcaa51768",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spravka.md",
+                "file": "08 guides/workbook.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Spravka"
+              "title": "Структура workbook"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 300
   },
   "right": {
-    "id": "11cc5fb635335710",
+    "id": "1f0885ad9c4a7a15",
     "type": "split",
     "children": [
       {
-        "id": "03975cbb741c1fb5",
+        "id": "5d641ce04aedfe22",
         "type": "tabs",
         "children": [
           {
-            "id": "c1d03e4a467f45ff",
+            "id": "2accfefb2665c7e6",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spravka.md",
+                "file": "08 guides/workbook.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -131,7 +130,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -141,16 +140,55 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0599315262018976,
+                  "scale": 0.7476195991017339,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Spravka"
+              "title": "Граф workbook"
+            }
+          }
+        ]
+      },
+      {
+        "id": "63f5b006f8a24a1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8b036507f9f0c15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "08 guides/workbook.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для workbook"
             }
           },
           {
-            "id": "c8160320b6b04241",
+            "id": "a3328184067b9dd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "08 guides/workbook.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из workbook"
+            }
+          },
+          {
+            "id": "33aefef8e9bc2c05",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -165,49 +203,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "41e24edb71357308",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "75721c3222b60940",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Spravka.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для Spravka"
-            }
-          },
-          {
-            "id": "27c932d96feb4c29",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Spravka.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Spravka"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,49 +216,52 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "markdown-importer:Импорт Markdown-файлов": false,
+      "workspaces:Пространства": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "templater-obsidian:Templater": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "987454d135709c1d",
+  "active": "c75068ede86448bd",
   "lastOpenFiles": [
-    "03 permanent/ПРИМЕР—Инструментальной рациональности может быть недостаточно для следования нормам.md",
     "Spravka.md",
-    "04 hub & concept/Социальные нормы.md",
-    "01 inbox/ПРИМЕР—gross2022.md",
-    "01 inbox/ПРИМЕР—ahrens2022.md",
-    "02 literature notes/@mann2022.md",
-    "00 project logs/Пример лога.md",
-    "01 inbox/@gross2022.md",
-    "01 inbox/sdflkj.md",
-    "01 inbox/mann2022.md",
-    "07 service/templates/hub-note-template.md",
-    "01 inbox/Без названия.md",
-    "00 project logs",
-    "07 service/templates/permanent-note-template.md",
-    "07 service/templates/manuscript-template.md",
-    "04 hub & concept/Социальные нормы1.md",
-    "07 service/templates/structure-note-template.md",
-    "08 service/templates/literature-note-template.md",
-    "03 permanent/ПРИМЕР—Powerful people are less inclined to follow social norms.md",
-    "04 hub & concept/HUB_Социальные нормы.md",
-    "01 inbox/Социальные нормы.md",
-    "03 permanent/ПРИМЕР—Инструментальной рациональности может быть недостаточно для следования нормам?.md",
-    "05 drafts/New paper draft.md",
-    "01 inbox/boobs.md",
-    "01 inbox/Tits.md",
-    "01 inbox/poops.md",
-    "01 inbox/Без названия 1.md",
+    "03 permanent/example—Instrumental rationality is insufficient.md",
+    "08 guides/08.5 productivity (bonus)/02 time management for researchers.md",
+    "08 guides/08.5 productivity (bonus)/01 no-bullshit speed-reading.md",
+    "08 guides/workbook.md",
+    "00 project logs/project log example.md",
+    "08 guides/08.1 obsidian/01 obsidian interface.md",
+    "08 guides/08.3 pandoc/03 setting citation style.md",
+    "08 guides/08.4 notes workflow/05 draft guide.md",
+    "08 guides/08.4 notes workflow/01 zotero import guide.md",
+    "01 inbox/example—gross2022.md",
+    "08 guides/08.2 zotero/05 highlights guide.md",
+    "08 guides/08.2 zotero/02 zotero checklist.md",
+    "08 guides/08.2 zotero/03 adding sources.md",
+    "01 inbox/@jackson2016.md",
+    "08 guides/08.2 zotero/04 searching sources.md",
+    "08 guides/08.2 zotero/01 zotero interface.md",
+    "07 service/files/example_metadata-good.png",
+    "07 service/files/example_metadata-bad.png",
+    "08 guides/08.3 pandoc/01 what is pandoc.md",
+    "08 guides/08.3 pandoc/02 conversion guide.md",
+    "07 service/files/list-funnel.jpg",
+    "08 guides/08.5 productivity (bonus)",
+    "08 guides/08.2 zotero/06 export to obsidian.md",
+    "05 drafts/poop.md",
+    "08 guides/08.1 obsidian/02 templates.md",
+    "08 guides/08.4 notes workflow/04 hub-note guide.md",
+    "08 guides/08.4 notes workflow/03 main note guide.md",
+    "08 guides/08.4 notes workflow/02 literature note guide.md",
+    "08 guides/08.4 notes workflow",
+    "01 inbox/зщщз.md",
+    "Без названия",
+    "08 guides/08.3 pandoc",
+    "08 guides/08.2 zotero",
+    "08 guides/08.1 obsidian",
+    "08 guides",
+    "06 manuscripts/EXAMPLE—Final draft.pdf",
     "06 manuscripts/06.01 output/ПРИМЕР—Чистовик новой статьи.pdf",
-    "08 service/my_library.json.sb-f467b8af-vhfbbP",
-    "08 service/scripts/header.js",
-    "03 permanent notes (index)",
-    "08 service/templates/text-gen_prompts",
-    "01 inbox/01.1 fleeting notes",
-    "08 service/scripts/search-research-notes.js",
-    "Chats",
-    "08 service/scripts/process-fleeting-notes.js",
-    "Zettelkasten/Canvas example.canvas"
+    "01 inbox/capitalism.pdf"
   ]
 }

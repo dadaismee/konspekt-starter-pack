@@ -86,15 +86,6 @@
     }
   ],
   "workspace:close-window": [],
-  "note-composer:split-file": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "R"
-    }
-  ],
   "editor:toggle-checklist-status": [
     {
       "modifiers": [
@@ -250,6 +241,15 @@
         "Alt"
       ],
       "key": "ArrowLeft"
+    }
+  ],
+  "note-composer:split-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
     }
   ]
 }

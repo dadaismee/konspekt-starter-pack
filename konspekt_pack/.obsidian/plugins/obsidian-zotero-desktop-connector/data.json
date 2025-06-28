@@ -7,7 +7,7 @@
   "citeFormats": [],
   "exportFormats": [
     {
-      "name": "Add fleeting note",
+      "name": "Add literature note",
       "outputPathTemplate": "01 inbox/@{{citekey}}.md",
       "imageOutputPathTemplate": "07 service/files/{{citekey}}_files/",
       "imageBaseNameTemplate": "image",
