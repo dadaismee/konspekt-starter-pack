@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ba963b0282503f18",
+        "id": "5191b5798b44d13d",
         "type": "tabs",
         "children": [
           {
-            "id": "c75068ede86448bd",
+            "id": "aa5cb419b7c29f53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 hub & concept/Social norms.md",
+                "file": "05_service/templates/zotero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Social norms"
+              "title": "zotero"
             }
           }
         ]
@@ -88,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 hub & concept/Social norms.md",
+                "file": "05_service/templates/zotero.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Social norms"
+              "title": "Структура zotero"
             }
           }
         ]
@@ -117,11 +117,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 hub & concept/Social norms.md",
+                "file": "05_service/templates/zotero.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -140,12 +140,24 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7476195991017339,
+                  "scale": 0.15852784085742563,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Social norms"
+              "title": "Граф zotero"
+            }
+          },
+          {
+            "id": "7906d01ea4c2cbf0",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "05_service/templates/zotero.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Сноски"
             }
           }
         ]
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 hub & concept/Social norms.md",
+                "file": "05_service/templates/zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Social norms"
+              "title": "Обратные ссылки для zotero"
             }
           },
           {
@@ -179,12 +191,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 hub & concept/Social norms.md",
+                "file": "08 guides/workbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Social norms"
+              "title": "Исходящие ссылки из workbook"
             }
           },
           {
@@ -206,10 +218,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -222,46 +235,48 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "c75068ede86448bd",
+  "active": "aa5cb419b7c29f53",
   "lastOpenFiles": [
-    "01 inbox/example—gross2022.md",
-    "02 literature notes/@mann2022.md",
-    "06 manuscripts/EXAMPLE—Final draft.md",
-    "07 service/templates/zotero.md",
-    "07 service/templates/structure-note-template.md",
-    "07 service/templates/permanent-note-template.md",
-    "07 service/templates/hub-note-template.md",
-    "07 service/templates/manuscript-template.md",
-    "08 guides/08.2 zotero/03 adding sources.md",
-    "08 guides/08.2 zotero/02 zotero checklist.md",
-    "08 guides/08.2 zotero/01 zotero interface.md",
-    "08 guides/08.1 obsidian/02 templates.md",
-    "08 guides/08.1 obsidian/01 obsidian interface.md",
-    "05 drafts/example paper draft.md",
-    "05 drafts/draft.md",
-    "04 hub & concept/Social norms.md",
-    "03 permanent/example—Powerful people are less inclined to follow social norms.md",
-    "03 permanent/example—Instrumental rationality is insufficient.md",
-    "00 project logs/project log example.md",
-    "01 inbox/@jackson2016.md",
-    "01 inbox/example—ahrens2022.md",
-    "05 drafts/poops.md",
-    "01 inbox/ПРИМЕР—Инструментальной рациональности может быть недостаточно для следования нормам?.md",
-    "Spravka.md",
-    "08 guides/workbook.md",
-    "03 permanent/ПРИМЕР—Powerful people are less inclined to follow social norms.md",
+    "05_service/templates/permanent-note-template.md",
+    "05_service/templates/hub-note-template.md",
+    "05_service/templates/paper-template.md",
+    "02_literature-notes/@mann2022.md",
+    "01_fleeting-notes/peeps.md",
+    "01_fleeting-notes/p.md",
+    "poops.md",
+    "peeps.md",
+    "peeops.md",
+    "01_fleeting-notes/mann2022b.md",
+    "03_permanent-notes/poops are great.md",
+    "03_permanent-notes/poopd.md",
+    "03_permanent-notes/poops1.md",
+    "03_permanent-notes/poops.md",
+    "05_service/templates/manuscript-template.md",
+    "01_fleeting-notes/poops.md",
+    "01 inbox/Untitled.md",
+    "01 inbox/Без названия.base",
+    "01_fleeting-notes/example—gross2022.md",
+    "01_fleeting-notes/example—ahrens2022.md",
+    "04_manuscripts/04.02_output/ПРИМЕР—Чистовик новой статьи.pdf",
+    "04_manuscripts/04.02_output/ПРИМЕР—Чистовик новой статьи.html",
+    "04_manuscripts/04.02_output/ПРИМЕР—Чистовик новой статьи.docx",
+    "04_manuscripts/04.02_output",
+    "04_manuscripts/04.01_drafts/example paper draft.md",
+    "04_manuscripts/04.01_drafts/draft.md",
+    "04_manuscripts/04.01_drafts",
+    "01 inbox",
+    "05_service/templates/zotero.md",
+    "02_literature-notes/@aumann1974.md",
+    "02_literature-notes/@aumann1987.md",
+    "02_literature-notes/@benerink2018.md",
+    "poops are great.md",
+    "06_guides/06.5_productivity-(bonus)",
+    "06_guides/06.5_productivity (bonus)",
+    "06_guides/06.4_notes workflow",
+    "05_service/files/example_metadata-good.png",
+    "05_service/files/example_metadata-bad.png",
     "07 service/files/example_metadata-good.png",
     "07 service/files/example_metadata-bad.png",
-    "07 service/files/list-funnel.jpg",
-    "08 guides/08.5 productivity (bonus)",
-    "08 guides/08.4 notes workflow",
-    "Без названия",
-    "08 guides/08.3 pandoc",
-    "08 guides/08.2 zotero",
-    "08 guides/08.1 obsidian",
-    "08 guides",
-    "06 manuscripts/EXAMPLE—Final draft.pdf",
-    "06 manuscripts/06.01 output/ПРИМЕР—Чистовик новой статьи.pdf",
-    "01 inbox/capitalism.pdf"
+    "07 service/files/list-funnel.jpg"
   ]
 }

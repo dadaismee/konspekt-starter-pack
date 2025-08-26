@@ -5,7 +5,7 @@
       "name": "Add permanent note",
       "type": "Template",
       "command": true,
-      "templatePath": "07 service/templates/permanent-note-template.md",
+      "templatePath": "05_service/templates/permanent-note-template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -13,7 +13,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "03 permanent"
+          "03_permanent-notes"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -35,7 +35,7 @@
       "name": "Add hub note",
       "type": "Template",
       "command": true,
-      "templatePath": "07 service/templates/hub-note-template.md",
+      "templatePath": "05_service/templates/hub-note-template.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{name}}"
@@ -43,7 +43,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "04 hub & concept"
+          "03_permanent-notes/03.01_hub+concept"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -65,7 +65,7 @@
       "name": "Add concept note",
       "type": "Template",
       "command": true,
-      "templatePath": "07 service/templates/permanent-note-template.md",
+      "templatePath": "05_service/templates/permanent-note-template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -73,7 +73,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "04 hub & concept"
+          "03_permanent-notes/03.01_hub+concept"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -95,7 +95,7 @@
       "name": "Add draft",
       "type": "Template",
       "command": true,
-      "templatePath": "07 service/templates/structure-note-template.md",
+      "templatePath": "05_service/templates/paper-template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -103,7 +103,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "05 drafts"
+          "04_manuscripts/04.01_drafts"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -132,14 +132,16 @@
       "name": "Add manuscript",
       "type": "Template",
       "command": true,
-      "templatePath": "07 service/templates/manuscript-template.md",
+      "templatePath": "05_service/templates/manuscript-template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
         "enabled": true,
-        "folders": [],
+        "folders": [
+          "04_manuscripts"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -159,8 +161,8 @@
       "id": "241319f9-721f-4503-a896-6cebacdd4795",
       "name": "New note",
       "type": "Template",
-      "command": true,
-      "templatePath": "07 service/templates/permanent-note-template.md",
+      "command": false,
+      "templatePath": "05_service/templates/permanent-note-template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -168,7 +170,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "01 inbox"
+          "01_fleeting-notes"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

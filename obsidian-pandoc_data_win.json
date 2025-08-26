@@ -10,6 +10,6 @@
   "pandoc": "C:\\Users\\testuser\\AppData\\Local\\Pandoc\\pandoc.exe",
   "pdflatex": "C:\\Users\\testuser\\scoop\\shims\\tectonic.exe",
   "outputFolder": "",
-  "extraArguments": "--bibliography=C:\\Users\\testuser\\konspekt_pack\\07%20service\\my_library.json\n--csl=C:\\Users\\testuser\\konspekt_pack\\07%20service\\apa.csl\n--citeproc\n--pdf-engine=tectonic\n--standalone\n-V mainfont=\"Times\"",
+  "extraArguments": "--bibliography=C:\\Users\\testuser\\konspekt_pack\\05_service\\my_library.json\n--csl=C:\\Users\\testuser\\konspekt_pack\\05_service\\apa.csl\n--citeproc\n--pdf-engine=tectonic\n--standalone\n-V mainfont=\"Times\"",
   "exportFrom": "md"
 }

@@ -166,7 +166,14 @@
       "key": "N"
     }
   ],
-  "file-explorer:new-file": [],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
   "quickadd:choice:241319f9-721f-4503-a896-6cebacdd4795": [
     {
       "modifiers": [
@@ -250,6 +257,15 @@
         "Shift"
       ],
       "key": "R"
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [],
+  "obsidian-linter:lint-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
     }
   ]
 }

@@ -3,7 +3,6 @@
   "obsidian-footnotes",
   "obsidian-linter",
   "obsidian-pandoc-reference-list",
-  "obsidian-outliner",
   "obsidian-hypothesis-plugin",
   "obsidian-autocomplete-plugin",
   "obsidian-zotero-desktop-connector",
@@ -11,6 +10,5 @@
   "obsidian-pandoc",
   "dataview",
   "quickadd",
-  "templater-obsidian",
   "obsidian-focus-mode"
 ]

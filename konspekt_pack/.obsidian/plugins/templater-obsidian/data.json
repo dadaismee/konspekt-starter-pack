@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "07 service/templates",
+  "templates_folder": "05_service/templates",
   "templates_pairs": [
     [
       "",
@@ -11,12 +11,12 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "07 service/scripts",
+  "user_scripts_folder": "05_service/scripts",
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "01 inbox",
-      "template": "07 service/templates/permanent-note-template.md"
+      "folder": "01_fleeting-notes",
+      "template": "05_service/templates/permanent-note-template.md"
     }
   ],
   "syntax_highlighting": true,

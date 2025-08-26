@@ -11,7 +11,8 @@
       "outputPathTemplate": "01 inbox/@{{citekey}}.md",
       "imageOutputPathTemplate": "07 service/files/{{citekey}}_files/",
       "imageBaseNameTemplate": "image",
-      "templatePath": "07 service/templates/zotero.md"
+      "templatePath": "07 service/templates/zotero.md",
+      "cslStyle": "chicago-author-date"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
